@@ -1,0 +1,8 @@
+Performance Task: 
+Assume your ID is AB-CDEFG-H, and then convert ‘E’, ‘F’ and ‘G’ to 4-bit binary to have a bit stream of 12 bits. Convert this bit stream to digital signal using the following methods: 
+
+1. Polar NRZ-L assuming bit rate is 4 kbps. 
+
+2. Manchester assuming bit rate is 2 kbps. 
+
+3. AMI assuming bit rate is 5 kbps. 

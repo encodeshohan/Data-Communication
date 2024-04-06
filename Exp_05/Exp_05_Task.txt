@@ -1,0 +1,10 @@
+Performance Task for Lab Report: (your ID = AB-CDEFG-H) 
+
+Convert the following analog signal into digital data: 
+sig = a1*sin(2*pi*f1*t) + a2*cos(2*pi*f2*t) + a3*sin(2*pi*f3*t) + a4*sin(2*pi*f4*t);
+ 
+[a1 = F + 1, a2 = F + 3, a3 = F + 2, a4 = F + 4, f1 = G + 5, f2 = G + 7, f3 = G + 1, f4 = G + 2]
+ 
+a) Show analog signal, sampled signal, and quantized signal. 
+b) Show the digital data from the analog signal. 
+c) What are the appropriate values of sampling frequency and number of levels of quantization if minimum required SNR and bandwidth of the channel are 25 dB and 150 Hz respectively.

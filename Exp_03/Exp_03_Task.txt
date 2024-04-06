@@ -1,0 +1,14 @@
+Performance Task for Lab Report: (your ID = AB-CDEFG-H) 
+
+Generate a composite signal using two simple signals as, 
+
+x = A1 sin(2π((C+D+H)*100)t ) + A2 cos(2π((D+E+H)*100)t) + s*randn(size(t));
+ 
+ 
+(a) Select the value of the amplitudes as follows: let A1 = (A+B+H), A2 = (B+C+H) and s = (C+D+H)/30  
+ 
+(b) Calculate the SNR value of the composite signal. 
+ 
+(c) Find the bandwidth of the signal and calculate the maximum capacity of the channel. 
+  
+(d) What will be the signal level to achieve the data rate?

@@ -1,0 +1,10 @@
+Consider z = your group number.
+Generate a signal (z +20) sin(2π × (z × 250 t + π/z))) and-
+
+a) Choose any sampling rate fs that is around 20 times bigger than the original signal frequency.
+
+b) Plot the signal over a range of t that has exactly fs points in the t array. Use axis or xlim function when plotting to show the signal only for the first 2 cycles.
+
+c) Add a harmonic distortion to the signal that has an amplitude which is half of the original signal, frequency that is double of the original and the same phase. Also add noise of standard deviations = (z+5)/20 to the signal. (plot) d) Calculate the SNR of the combined signal and the maximum capacity of the channel.
+
+e) Quantize the signal with enough levels to have a smooth output and plot the quantized signal.
