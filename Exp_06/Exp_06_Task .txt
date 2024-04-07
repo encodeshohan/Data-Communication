@@ -1,0 +1,10 @@
+Performance Task: 
+Assume your ID is AB-CDEFG-H. Convert ‘E’, ‘F’ and ‘G’ to 8-bit ASCII characters and together you have a bit stream of 24 bits. Convert this bit stream to analog signal using the following:
+
+1. 8-ASK: Different amplitudes for 000 to 111 in the modulated signal can be 0 V, 1 V, 2 V, 3 V, 4 V, 5 V, 6 V, and 7 V respectively.  
+
+2. 8-FSK: Different frequencies for 000 to 111 in the modulated signal can be 1 Hz, 2 Hz, 3 Hz, 4 Hz, 5 Hz, 6 Hz, 7 Hz, and 8 Hz respectively. 
+
+3. 8-PSK: Different phases for 000 to 111 in the modulated signal can be 0, pi/4, 3*pi/4, pi/2, -pi/4, -pi/2, pi, -3*pi/4 respectively. 
+
+Duration of each signal element must be 1 second.
