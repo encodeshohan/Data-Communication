@@ -1,0 +1,13 @@
+Part 1 Performance Task: 
+
+Implement the following demodulation in Simulink to retrieve the original signal: 
+You have a signal ‘m(t) = (2*sin(2*pi*4*t)+3*cos(2*pi*6*t))’. Apply amplitude modulation (AM) on the given signal with carrier signal ‘c(t) = cos(2*pi*50*t)’, and then do demodulation to recover the original message signal m(t). 
+
+
+Part 2 Performance Task: 
+
+Message signal, m(t) = a*sin(2πfmt + π/3), a = 2, fm = 10. Use FM modulation and demodulation on the given signal and use two scopes to show your output. First scope should show message signal and modulated signal. Second scope should show message signal and demodulated signal. Lab Report must contain 
+(a) A block diagram of FM modulator. 
+(b) A block diagram of FM demodulator.
+(c) A block diagram of FM modulator and demodulator in a single window.
+(d) Two scope figures.
