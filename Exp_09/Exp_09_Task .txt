@@ -1,0 +1,20 @@
+Performance Task for Lab Report: (your ID = AB-CDEFG-H) 
+
+You have four message signals: 
+a) mt1 = am1*cos(2*pi*fm1*t); 
+b) mt2 = am2*cos(2*pi*fm2*t); 
+c) mt3 = am3*cos(2*pi*fm3*t); 
+d) mt4 = am4*cos(2*pi*fm4*t); 
+where, 
+am1 = (F+2); 
+am2 = (F+5); 
+am3 = (F+8); 
+am4 = (F+11); 
+and 
+fm1 = (G+1); 
+fm2 = (G+2); 
+fm3 = (G+3); 
+fm4 = (G+4); 
+We want to simultaneously transmit these four signals through a single data link that can support a frequency range of 50 Hz to 250 Hz. 
+
+Write a code that can modulate and multiplex the four given message signals in transmitting side (use appropriate carrier signals for amplitude modulation as required) and de-multiplex (use appropriate cutoff frequencies in your bandpass filters) and de-modulate (use appropriate cut-off frequencies in your lowpass filters) to recover the four message signals in receiving side.
