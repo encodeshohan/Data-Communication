@@ -1,0 +1,7 @@
+Performance Task for Lab Report 
+
+(a) Transmit a text message ‘Data Comm’ as analog signal using BASK. Show the binary data representing the text, show the digital signal, and show the analog signal. 
+
+(b) Show the received analog signal assuming the communication channel has an SNR of 30 dB. 
+
+(c) Recover the text ‘Data Comm’ from the received signal. 
