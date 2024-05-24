@@ -1,0 +1,5 @@
+Task
+
+•	Convert multiple Digital data (as binary bits) into Analog signals using ASK (Amplitude shift keying)
+•	Multiplex the multiple Analog signals using FDM (Frequency Division Multiplexing)
+•	De-multiplex the composite Analog signal back into individual Analog signals
